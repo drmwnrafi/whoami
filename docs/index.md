@@ -38,8 +38,6 @@ I am a fresh graduate with a deep interest in cutting-edge deep learning, large 
     [:octicons-arrow-right-24: Visit My Blog](https://drmwnrafi.github.io/notesonanything/)
 </div>
 
-
-
 &nbsp;
 
 ### **Connect with me:**
