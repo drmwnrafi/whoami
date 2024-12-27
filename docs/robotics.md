@@ -8,7 +8,7 @@ hide:
 
 ## **MAP-IT : 2D Mapping Iterative Closest Point and Pose Graph on Mobile Robot**
 
-<div style="display: grid; grid-template-columns: 3fr 1fr; gap: 20px; align-items: start;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; align-items: start;">
   <div style="text-align: justify;">
     <div>
       <a href="https://github.com/drmwnrafi/ROS2-PLICP-POSE-GRAPH">
@@ -30,8 +30,9 @@ hide:
       <img src="https://img.shields.io/badge/Gradio-ff4c00?&logoColor=white&logo=" alt="Gradio">
     </div>
   </div>
-  <div style="text-align: right;">
-    <img src="../assets/media/map_.gif" alt="MAP-IT" >
+  <div style="text-align: center;">
+    <video src="../assets/media/mapit.mp4" style="text-align: center; justify-content: center;" alt="Quadcopter Simulation" width="350px" type="video/mp4" controls></video>
+    <img src="../assets/media/map_.gif" alt="MAP-IT" width="350px" style="text-align: center; justify-content: center;">
   </div>
 </div>
 
