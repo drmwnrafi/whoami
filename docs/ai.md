@@ -130,7 +130,7 @@ hide:
       <a href="https://www.kaggle.com/code/drmwnnrafi/big-cat-classification-w-tf-spinalnet-100">
         <img src="https://img.shields.io/badge/Kaggle Notebooks-0057e7?style=for-the-badge&logo=kaggle&logoColor=white">
       </a>
-      <a href="https://drmwnrafi.github.io/notesonanything/robotics/sys_iden/wynda/">
+      <a href="https://drmwnrafi.github.io/notesonanything/AI/spinal/">
         <img src="https://img.shields.io/badge/Theoretical Explanation-526CFE?style=for-the-badge&logo=materialformkdocs&logoColor=fff" alt="MkDocs">
       </a>
     </div>
