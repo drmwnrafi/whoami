@@ -15,7 +15,7 @@ hide:
         <img src="https://img.shields.io/badge/Source Code-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
       </a>
       <a href="https://drmwnrafi.github.io/notesonanything/robotics/slam/plicp/">
-        <img src="https://img.shields.io/badge/Theoritical Explaination-526CFE?style=for-the-badge&logo=materialformkdocs&logoColor=fff" alt="MkDocs">
+        <img src="https://img.shields.io/badge/Theoretical Explanation-526CFE?style=for-the-badge&logo=materialformkdocs&logoColor=fff" alt="MkDocs">
       </a>
       <a href="https://www.researchgate.net/publication/385438246_Implementation_of_Levenberg-Marquardt_Point_to_Line_Iterative_Closest_Point_and_Pose_Graph_Optimization_for_2D_Indoor_Mapping_on_Differential_Drive_Mobile_Robot">
         <img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate">
@@ -50,7 +50,7 @@ hide:
         <img src="https://img.shields.io/badge/C/C++ Code-121013?style=for-the-badge&logo=github&logoColor=white" alt="C/C++ Code">
       </a>
       <a href="https://drmwnrafi.github.io/notesonanything/robotics/sys_iden/wynda/">
-        <img src="https://img.shields.io/badge/Theoritical Explaination-526CFE?style=for-the-badge&logo=materialformkdocs&logoColor=fff" alt="MkDocs">
+        <img src="https://img.shields.io/badge/Theoretical Explanation-526CFE?style=for-the-badge&logo=materialformkdocs&logoColor=fff" alt="MkDocs">
       </a>
     </div>
     <p>I reimplemented the code from the paper “WyNDA: A Method to Discover Mathematical Models of Dynamical Systems from Data” 
@@ -77,7 +77,7 @@ hide:
         <img src="https://img.shields.io/badge/Source Code-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
       </a>
       <a href="https://drmwnrafi.github.io/notesonanything/robotics/nonlinear_control/geom_quadcopter/">
-        <img src="https://img.shields.io/badge/Theoritical Explaination-526CFE?style=for-the-badge&logo=materialformkdocs&logoColor=fff" alt="MkDocs">
+        <img src="https://img.shields.io/badge/Theoretical Explanation-526CFE?style=for-the-badge&logo=materialformkdocs&logoColor=fff" alt="MkDocs">
       </a>
     </div>
     <p>I implemented minimum snap trajectory optimization for both position and orientation, as well as geometric control on \(SE(3)\) for nonlinear control in non-flat spaces. 
