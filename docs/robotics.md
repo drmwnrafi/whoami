@@ -66,6 +66,29 @@ hide:
   </div>
 </div>
 
+<!-- ---
+
+## **MuJoCo Simulation of PLICP Graph SLAM Mapping**
+
+<div style="display: grid; grid-template-columns: 3fr 1fr; gap: 20px; align-items: start;">
+  <div style="text-align: justify;">
+    <div>
+      <a href="https://github.com/drmwnrafi/mujoco_zoo">
+        <img src="https://img.shields.io/badge/Source Code-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      </a>
+    </div>
+    <p>I implemented minimum snap trajectory optimization for both position and orientation, as well as geometric control on \(SE(3)\) for nonlinear control in non-flat spaces. 
+    Additionally, I built a 3D simulation environment using MuJoCo to test and validate these control strategies.</p>
+    <div>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python">
+      <img src="https://img.shields.io/badge/MuJoCo-00599C?&logoColor=white" alt="MuJoCo">
+    </div>
+  </div>
+  <div style="text-align: right;">
+    <img src="../assets/media/geom_ctrl.gif" alt="Quadcopter Simulation" width="400px">
+  </div>
+</div> -->
+
 ---
 
 ## **Quadcopter Trajectory Planning and Tracking 3D Simulation**
@@ -73,7 +96,7 @@ hide:
 <div style="display: grid; grid-template-columns: 3fr 1fr; gap: 20px; align-items: start;">
   <div style="text-align: justify;">
     <div>
-      <a href="https://github.com/drmwnrafi/mujoco_model">
+      <a href="https://github.com/drmwnrafi/mujoco_zoo">
         <img src="https://img.shields.io/badge/Source Code-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
       </a>
       <a href="https://drmwnrafi.github.io/notesonanything/robotics/nonlinear_control/geom_quadcopter/">
