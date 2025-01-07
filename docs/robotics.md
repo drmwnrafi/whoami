@@ -20,6 +20,9 @@ hide:
       <a href="https://www.researchgate.net/publication/385438246_Implementation_of_Levenberg-Marquardt_Point_to_Line_Iterative_Closest_Point_and_Pose_Graph_Optimization_for_2D_Indoor_Mapping_on_Differential_Drive_Mobile_Robot">
         <img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate">
       </a>
+      <a href="https://cad.onshape.com/documents/dc59ea54ff32ed80227579df/w/268446149b3e0f169d6a4e6d/e/1ee163acc0dcd2523cc522f8">
+        <img src="https://img.shields.io/badge/OnShape-1997B5&?&style=for-the-badge&logo&logoColor=white" alt="OnShape">
+      </a>
     </div>
     <p>I applied the Levenberg-Marquardt algorithm for Point to Line Iterative Closest Point (PLICP) and developed occupancy grid mapping from scratch using NumPy. 
     Additionally, I built a web application for mobile robot control, integrating it seamlessly with Robot Operating System 2 (ROS2) to enhance functionality and user interaction. 
