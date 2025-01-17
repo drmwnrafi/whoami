@@ -30,12 +30,44 @@ hide:
     <div>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python">
       <img src="https://img.shields.io/badge/ROS2-22314E?&logo=ROS&logoColor=white" alt="ROS">
-      <img src="https://img.shields.io/badge/Gradio-ff4c00?&logoColor=white&logo=" alt="Gradio">
+      <img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff" alt="NumPy">
+      <img src="https://img.shields.io/badge/MuJoCo-00599C?&logoColor=white" alt="MuJoCo">
     </div>
   </div>
   <div style="text-align: center;">
     <video src="../assets/media/mapit.mp4" style="text-align: center; justify-content: center;" alt="Quadcopter Simulation" width="350px" type="video/mp4" controls></video>
     <img src="../assets/media/map_.gif" alt="MAP-IT" width="350px" style="text-align: center; justify-content: center;">
+  </div>
+</div>
+
+---
+
+## **Graphical User Interface with MuJoCo Simulation**
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; align-items: start;">
+  <div style="text-align: justify;">
+    <div>
+      <a href="https://github.com/drmwnrafi/mujoco_zoo">
+        <img src="https://img.shields.io/badge/Source Code-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      </a>
+      <a href="https://cad.onshape.com/documents/dc59ea54ff32ed80227579df/w/268446149b3e0f169d6a4e6d/e/1ee163acc0dcd2523cc522f8">
+        <img src="https://img.shields.io/badge/OnShape-1997B5&?&style=for-the-badge&logo&logoColor=white" alt="OnShape">
+      </a>
+    </div>
+    <p>
+    This project involves building a MuJoCo simulation for a mobile robot and implementing PLICP with Graph SLAM. The simulation leverages OpenGL (via Python bindings) to visualize and plot graphs in real-time. The graphical user interface (GUI) is developed using Tkinter, providing an intuitive way to interact with the simulation and monitor the robot's behavior.
+    <div>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python">
+      <img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff" alt="NumPy">
+      <img src="https://img.shields.io/badge/OpenGL-4483b1?&logoColor=white&logo=" alt="Gradio">
+      <img src="https://img.shields.io/badge/Tkinter-009bff?&logoColor=white&logo=" alt="Gradio">
+      <img src="https://img.shields.io/badge/MuJoCo-00599C?&logoColor=white" alt="MuJoCo">
+    </div>
+  </div>
+  <div style="text-align: right; position: relative;">
+    <a href="https://www.youtube.com/watch?v=9HrDTDOXUvg" target="_blank">
+      <img src="../assets/media/gui.png" alt="MuJoCo Tkinter GUI - Mobile Robot Mapping" />
+    </a>
   </div>
 </div>
 
@@ -68,29 +100,6 @@ hide:
     <img src="../assets/media/wynda_lorentz.gif" alt="WyNDA" width="350px">
   </div>
 </div>
-
-<!-- ---
-
-## **MuJoCo Simulation of PLICP Graph SLAM Mapping**
-
-<div style="display: grid; grid-template-columns: 3fr 1fr; gap: 20px; align-items: start;">
-  <div style="text-align: justify;">
-    <div>
-      <a href="https://github.com/drmwnrafi/mujoco_zoo">
-        <img src="https://img.shields.io/badge/Source Code-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-      </a>
-    </div>
-    <p>I implemented minimum snap trajectory optimization for both position and orientation, as well as geometric control on \(SE(3)\) for nonlinear control in non-flat spaces. 
-    Additionally, I built a 3D simulation environment using MuJoCo to test and validate these control strategies.</p>
-    <div>
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python">
-      <img src="https://img.shields.io/badge/MuJoCo-00599C?&logoColor=white" alt="MuJoCo">
-    </div>
-  </div>
-  <div style="text-align: right;">
-    <img src="../assets/media/geom_ctrl.gif" alt="Quadcopter Simulation" width="400px">
-  </div>
-</div> -->
 
 ---
 
